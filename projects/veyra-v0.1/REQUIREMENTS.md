@@ -15,6 +15,7 @@ If a task section contains no incomplete tasks, Veyra must display the section w
 
 
 ## Security Requirements
+
 ### SR-001 — Approved File Access Only
 Veyra must access only explicitly approved files within the Veyra root directory.
 ### SR-002 — Read-Only Operation

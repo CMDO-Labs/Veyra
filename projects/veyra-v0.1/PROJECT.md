@@ -4,7 +4,7 @@
 ## Status
 - Acitve
 ## Current Focus
-- Build the first Python automation that reads Veyra's structured Markdown state.
-## Next Action 
-- Define the minimum requirements for a read-only Python script that summarizes Veyra's current state.
+- Build Veyra's automated daily operations runner.
+## Next Action
+- Define the requirements for a runner that combines Veyra's approved operational state into a daily terminal view.
 ## Notes
