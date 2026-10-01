@@ -4,7 +4,7 @@
 ## Status
 - Acitve
 ## Current Focus
-- Build Veyra's automated daily operations runner.
+- Use the Veyra daily operations runner to manage current priorities.
 ## Next Action
-- Define the requirements for a runner that combines Veyra's approved operational state into a daily terminal view.
+- Finish remaining local Terraform fundamentals.
 ## Notes
