@@ -3,7 +3,18 @@ Veyra is a filesystem-based personal operations and AI-assistant system designed
 ## Current Version
 Veyra V0.1
 ## Current Goal
-Build and validate a simple Markdown-based information architecture before introducing Python automation, APIs, or AI integrations.
+Use the Veyra V0.1 daily operations runner as the foundation for a controlled LLM interface that can read operational context, propose state changes, and require human approval before modifying user data.
+## Current Capabilities
+- Filesystem-based, human-readable operational state
+- Python daily operations runner
+- Parsing of project, task, and waiting-state Markdown files
+- Explicit allowlisted file access
+- Read-only operation for the current runner
+- Fail-safe handling for missing approved files
+- Empty-state handling
+- Separation of public application logic from private user data
+- Requirements, design, and test documentation
+- Git-based version control
 ## Design Principles
 - Human-readable source of truth
 - Model-agnostic architecture
